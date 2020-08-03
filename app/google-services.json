@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22967351824",
+    "firebase_url": "https://proje-283ca.firebaseio.com",
+    "project_id": "proje-283ca",
+    "storage_bucket": "proje-283ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22967351824:android:afb9e7cd1f7ffa74f52895",
+        "android_client_info": {
+          "package_name": "com.nuri.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22967351824-kijkkbp3cv64hfvnlbfc7as8ohftn030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67I4tnb4A7mvnJ91Efoabgzf-Eg7UzME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22967351824-kijkkbp3cv64hfvnlbfc7as8ohftn030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
